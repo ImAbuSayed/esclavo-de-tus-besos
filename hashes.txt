@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esclavo de tus besos
+
+This log tracks the cryptographic history and versioning for the song **Esclavo de tus besos** (esclavo-de-tus-besos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:16:19.030971 | `v1` | `c436231e5d308ebe73d9658dd62bcb7dbd332bd7652d8731526d514f45efdcbb` | `92f0b4cbf59012a0a6c7f7bb24384d8d6b4905e04345b8ee80858f2cd262fd06` | `2026-06-16_esclavo-de-tus-besos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
