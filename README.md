@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, yo me rindo cuando apagan la luz
+> Nadie tiene el toque, el veneno que tienes tú
+> Esclavo de tus besos, me tienes a tu merced
+> Dime que esta noche tú vas a calmar mi sed
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
